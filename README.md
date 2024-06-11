@@ -25,13 +25,6 @@ This repository contains Simulink models and MATLAB scripts for simulating admit
 ## Admittance Control
 
 Admittance control is a robotic control strategy where the robot adjusts its motion in response to external forces. It is particularly useful in applications where the robot interacts with dynamic and unpredictable environments.
-
-### Key Features
-
-- **Smooth Interaction**: Ensures smooth and compliant interactions between the robot and its environment.
-- **Parameter Initialization**: Easy initialization of parameters through MATLAB scripts.
-- **Result Visualization**: Plots the results of the simulation for analysis.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
