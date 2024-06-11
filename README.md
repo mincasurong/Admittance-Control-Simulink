@@ -7,10 +7,6 @@ This repository contains Simulink models and MATLAB scripts for simulating admit
 - **Simulink Models:**
   - **[AdmittanceControl.slx](AdmittanceControl.slx)**: Main Simulink model for admittance control simulation.
   
-- **MATLAB Scripts:**
-  - **[init_params.m](init_params.m)**: Script to initialize parameters for the simulation.
-  - **[run_simulation.m](run_simulation.m)**: Script to run the Simulink model and collect data.
-  - **[plot_results.m](plot_results.m)**: Script to plot the results of the simulation.
 
 ## Getting Started
 
@@ -24,18 +20,6 @@ This repository contains Simulink models and MATLAB scripts for simulating admit
     ```bash
     git clone https://github.com/mincasurong/Admittance-Control-Simulink.git
     cd Admittance-Control-Simulink
-    ```
-
-2. Open MATLAB and run the initialization script:
-    ```matlab
-    init_params
-    ```
-
-3. Open `AdmittanceControl.slx` in Simulink, run the model to simulate the admittance control system.
-
-4. To plot the results, run:
-    ```matlab
-    plot_results
     ```
 
 ## Admittance Control
